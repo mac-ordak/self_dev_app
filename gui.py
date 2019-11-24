@@ -23,7 +23,7 @@ class SelfDevApp(tk.Tk):
 
 		tk.Tk.__init__(self, *args, **kwargs)
 
-		tk.Tk.iconbitmap(self, "penguin16.ICO")
+		tk.Tk.iconbitmap(self, "") #changing default icon but no icon yet
 		tk.Tk.wm_title(self, "Self-dev app client")
 
 		container = tk.Frame(self)
