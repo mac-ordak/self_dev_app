@@ -1,0 +1,2 @@
+*credits for gui part to sentdex and his youtube tutorial on tkinter https://www.youtube.com/user/sentdex
+*credits for some functions in database part: https://www.sqlitetutorial.net/sqlite-python/update/
